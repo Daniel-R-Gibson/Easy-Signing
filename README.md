@@ -12,7 +12,7 @@
 - PowerShell
 
 
-## [View Whats Down Package and Source Code on Github](https://github.com/Daniel-R-Gibson/Easy-Signing/)
+## [View Easy-Signing Source Code on Github](https://github.com/Daniel-R-Gibson/Easy-Signing/)
 
 
 
