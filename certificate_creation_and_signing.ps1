@@ -1,7 +1,7 @@
 ﻿#This script will take user imput and sign (or create and sign) a script with a certificate.
 #Author: Cpl Dan Gibson                System Level @ creation: Patch 39/MR 18               Completed on 2020/12/04
 #
-#Sarcio Sordidus  ---  Patch Dirty
+#Sarcio Sordidus
 #
 #These first commands will set the filepath of the .ps1 that needs signing, the name of the certificate, and if a new certificate needs to be generated. 
 #Then it will guide the user through the steps of adding the certificate to trusted publishers and trusted root certification authorities
