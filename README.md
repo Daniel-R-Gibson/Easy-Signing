@@ -10,7 +10,7 @@
 - One Workstation (Windows 10 Operating System)
 - 1 Account with Administrative Rights
 - PowerShell
-- 
+
 
 ## [View Whats Down Package and Source Code on Github](https://github.com/Daniel-R-Gibson/Easy-Signing/)
 
