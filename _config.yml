@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
 github:
   is_project_page: false
-  show_downloads: false
+  show_downloads: true
